@@ -1,0 +1,19 @@
+https://che.openshift.io/dashboard/
+
+Eclipse Che
+The Kubernetes-Native IDE for Developer Teams
+
+devfile :
+- component
+- commands
+- factory
+
++
+- fast integration for new comer
+- shareable
+- cloud native
+- IDE + compatible native visual studio plugin
+- portable
+
+- not for all project
+- network issue
